@@ -1,0 +1,6 @@
+{
+  "name": "NotionMap - Workspace Mindmap",
+  "description": "Notion-styled infinite canvas mindmap with multiple parent nodes, rich document attachments, image frame zoom controls, flexible sticky notes, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
